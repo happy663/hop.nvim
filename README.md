@@ -1,13 +1,13 @@
 > [!IMPORTANT]
 > ## Fork / Backup Notice
 >
-> このリポジトリは [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) の非公式バックアップです。
-> 上流リポジトリは GitHub 上から削除されたため、ローカルの lazy.nvim キャッシュから
-> `v2` ブランチのワーキングツリー（元コミット `90db1b2`）を 2026-05-25 にスナップショット化しました。
+> This repository is an unofficial backup of [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim).
+> The upstream repository was deleted from GitHub, so a snapshot of the `v2` branch working tree
+> (originally at commit `90db1b2`) was taken from a local lazy.nvim cache on 2026-05-25.
 >
-> オリジナルの著作権・ライセンスはすべて元作者 [@phaazon](https://github.com/phaazon) に帰属します。
-> 個人利用の継続のために保持しているだけのフォークであり、新規機能開発・サポートは行いません。
-> メンテされている代替プラグインへの移行を推奨します。
+> All original copyright and licensing remain with the original author [@phaazon](https://github.com/phaazon).
+> This fork exists solely to keep the plugin installable for personal use — no new features or support are planned.
+> Migration to a maintained alternative is recommended.
 >
 > ---
 
